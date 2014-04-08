@@ -9,3 +9,9 @@ golive
 * Enable SSL on sensitive areas (if required)
 * Remove robots.txt
 * Disable Mail within Plesk (if necessary)
+* 301 redirects
+
+
+## Todo
+
+Categorise the above ^
