@@ -1,17 +1,26 @@
 golive
-======
 
-* Google analytics
-* Setup any cron jobs
-* Change payment gateways from test mode
-* Change admin email addresses
-* Clear any test orders
-* Enable SSL on sensitive areas (if required)
-* Remove robots.txt
+
+## Server
+
 * Disable Mail within Plesk (if necessary)
+
+## WordPress specific
+
+* Change admin email addresses
+* Clear any test data
+* Enable SSL on sensitive areas (if required)
+
+## .htaccess
+
 * 301 redirects
+* Flush permalinks
 
+## SEO
 
-## Todo
+* Remove robots.txt
+* Integrate (existing) Google Analytics
 
-Categorise the above ^
+## 3rd party services
+
+* Change payment gateways from test mode
