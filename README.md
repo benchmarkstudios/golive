@@ -25,3 +25,6 @@
 
 - [ ] Change payment gateways from test mode
 
+## Files
+
+- [ ] Check file permissions
