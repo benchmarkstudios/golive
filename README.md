@@ -15,6 +15,8 @@
 
 - [ ] 301 redirects
 - [ ] Flush permalinks
+- [ ] Configure to serve SVG
+
 
 ## SEO
 
