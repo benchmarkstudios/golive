@@ -15,7 +15,7 @@
 
 - [ ] 301 redirects
 - [ ] Flush permalinks
-- [ ] Configure to serve SVG
+- [ ] Configure to serve SVG/HTML5 video
 
 
 ## SEO
@@ -30,3 +30,4 @@
 ## Files
 
 - [ ] Check file permissions
+- [ ] Remove preview files/database/database user(s)
