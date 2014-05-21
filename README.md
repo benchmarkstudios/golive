@@ -30,4 +30,5 @@
 ## Files
 
 - [ ] Check file permissions
+- [ ] Change owner to apache/plesk user/group
 - [ ] Remove preview files/database/database user(s)
