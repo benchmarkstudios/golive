@@ -5,11 +5,13 @@
 
 - [ ] Disable Mail within Plesk (if necessary)
 
+
 ## WordPress specific
 
 - [ ] Change admin email addresses
 - [ ] Clear any test data
 - [ ] Enable SSL on sensitive areas (if required)
+
 
 ## .htaccess
 
@@ -23,12 +25,20 @@
 - [ ] Remove robots.txt
 - [ ] Integrate (existing) Google Analytics
 
+
 ## 3rd party services
 
 - [ ] Change payment gateways from test mode
+
 
 ## Files
 
 - [ ] Check file permissions
 - [ ] Change owner to apache/plesk user/group
 - [ ] Remove preview files/database/database user(s)
+
+
+## Cleanup
+
+- [ ] Delete staging database and users
+- [ ] Delete staging site
