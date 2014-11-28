@@ -9,6 +9,7 @@
 ## WordPress specific
 
 - [ ] Change admin email addresses
+- [ ] Generate new admin password and store in 1Password
 - [ ] Clear any test data
 - [ ] Enable SSL on sensitive areas (if required)
 
