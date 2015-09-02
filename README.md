@@ -34,6 +34,8 @@
 ## General
 
 - [ ] Favicon, Apple touch icon and win tile icon
+- [ ] Check archive pages
+- [ ] Check Search page (even if there isn't search field)
 
 ## Files
 
