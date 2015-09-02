@@ -31,6 +31,9 @@
 
 - [ ] Change payment gateways from test mode
 
+## General
+
+- [ ] Favicon, Apple touch icon and win tile icon
 
 ## Files
 
